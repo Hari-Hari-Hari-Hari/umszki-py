@@ -25,8 +25,10 @@ else:
 #     ▪ Füzze az eredményt a 'változás' lista végéhez!
 # ▪ A ciklus után írja képernyőre a kiszámolt adatokat!
 
+változás =[]
 
 # 3. feladat
 # ▪ importálja a json modult!
+#python -m pip install json
 # ▪ készítsen az adatokból szótárat
 # ▪ mentse fájlba data.json néven!
